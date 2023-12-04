@@ -47,7 +47,7 @@ h6
 
 p
 {
-	font-size: 12.0pt;
+	font-size: 14pt;
 	margin-top: 0pt;
 	margin-bottom: 0pt;
 	color: var(--Dark);
@@ -99,13 +99,19 @@ h1.Center
 {
 	font-weight: bold;
 	font-size: 24.0pt;
-	color: #ffa500;
+	color: #ffffff;
 	font-family: 'Segoe Script';
 }
 
 .center
 {
 	text-align: center;
+	color: #ffffff;
+	font-family: 'Segoe Script';
+}
+
+.font
+{
 	color: #ffffff;
 	font-family: 'Segoe Script';
 }
