@@ -4,6 +4,7 @@ body
 {
 	font-family: var(--FontFamily);
 	background-color: var(--Lightest);
+	background-image: url('../Images/Stars.PNG');
 }
 
 h1
@@ -91,3 +92,4 @@ MadCap|dropDownHotspot
 	text-decoration: none;
 	color: #006600;
 }
+
