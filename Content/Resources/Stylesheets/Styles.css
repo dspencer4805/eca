@@ -5,6 +5,7 @@ body
 	font-family: var(--FontFamily);
 	background-color: var(--Lightest);
 	background-image: url('../Images/Stars.PNG');
+	text-align: center;
 }
 
 h1
@@ -91,5 +92,13 @@ MadCap|dropDownHotspot
 	font-style: italic;
 	text-decoration: none;
 	color: #006600;
+}
+
+h1.Center
+{
+	font-weight: bold;
+	font-size: 24.0pt;
+	color: #ffa500;
+	font-family: 'Segoe Script';
 }
 
