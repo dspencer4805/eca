@@ -51,6 +51,7 @@ p
 	margin-top: 0pt;
 	margin-bottom: 0pt;
 	color: var(--Dark);
+	text-align: justify;
 }
 
 ol,
@@ -63,7 +64,7 @@ dl
 
 img
 {
-	border: none;
+	border: groove 4px #a9a9a9;
 }
 
 a.Popup
@@ -99,6 +100,13 @@ h1.Center
 	font-weight: bold;
 	font-size: 24.0pt;
 	color: #ffa500;
+	font-family: 'Segoe Script';
+}
+
+.center
+{
+	text-align: center;
+	color: #ffffff;
 	font-family: 'Segoe Script';
 }
 
